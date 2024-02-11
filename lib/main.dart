@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:whatsapp_clone/chat_screen.dart';
+import 'package:whatsapp_clone/components/constants.dart';
+import 'package:whatsapp_clone/screens/chat_screen.dart';
 
 void main() {
   runApp(const Whatsapp());
@@ -13,10 +14,10 @@ class Whatsapp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData.dark().copyWith(
-        primaryColor: const Color(0xFF0A0E21),
-        scaffoldBackgroundColor: const Color(0xFF0A0E21),
+        primaryColor: kPrimaryColor,
+        scaffoldBackgroundColor: kPrimaryColor,
         appBarTheme: const AppBarTheme(
-          backgroundColor: Color(0xFF0A0E21),
+          backgroundColor: kPrimaryColor,
         ),
       ),
       home: const ChatScreen(),

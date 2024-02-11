@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:whatsapp_clone/components/constants.dart';
 
 class ChatScreen extends StatefulWidget {
   const ChatScreen({super.key});
@@ -162,7 +163,7 @@ class _ChatScreenState extends State<ChatScreen> {
                           child: Text(
                             "4",
                             style: TextStyle(
-                              color: Color(0xFF0A0E21),
+                              color: kPrimaryColor,
                               fontSize: 10.0,
                             ),
                           ),
