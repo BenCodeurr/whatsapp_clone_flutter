@@ -5,7 +5,6 @@ This project aims to replicate the key features of WhatsApp, including real-time
 ## Wanna Contribute?
 
 
-A few resources to get access to the Trello Workspace and Figma Designs. Just click the link grab a figma screen and drop the task on Doing List in Trello:
+Kindly use the Whatsapp Messenger App Installed on your phone. The tasks will be inserted in the below Trello workspace. Pick one tak on the To-do List and drag it on the Doing List. When done, drag it on the Done List.
 
 - [Trello: Access The Workspave](https://trello.com/invite/b/UUl1acUU/ATTI7a74c9f716632b0bade2a9d65af8dd2dFD73D749/kanban-template)
-- [Figma: Access the figma screens we picked from the figma community](https://www.figma.com/file/Sog6uZbt7CZeTdTLT4tmDO/WhatsApp-Clone--(Dark-mode)?type=design&node-id=1%3A3092&mode=design&t=FzkznPz0iBC3qhO7-1)
